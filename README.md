@@ -1,6 +1,9 @@
 # vim-color-scheme-screenshots
 A collection of screenshots for vim color schemes
 
+## Dark Background Schemes
+
+These schemes make sense only when your terminal's background is dark (e.g. black)
 
 ![dark-bg-blue.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-blue.png)  
 dark-bg-blue.png
@@ -46,6 +49,10 @@ dark-bg-torte.png
 
 ![dark-bg-zellner.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-zellner.png)  
 dark-bg-zellner.png
+
+## Light Background Schemes
+
+These schemes make sense only when your terminal's background is light (e.g. white).
 
 ![light-bg-delek.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-delek.png)  
 light-bg-delek.png
