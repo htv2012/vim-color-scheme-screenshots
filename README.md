@@ -1,128 +1,66 @@
 # vim-color-scheme-screenshots
 A collection of screenshots for vim color schemes
 
-<p>
-    ![dark-bg-blue.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-blue.png)
-    <br/>
-    dark-bg-blue.png
-</p>
 
-<p>
-    ![dark-bg-darkblue.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-darkblue.png)
-    <br/>
-    dark-bg-darkblue.png
-</p>
+![dark-bg-blue.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-blue.png)  
+dark-bg-blue.png
 
-<p>
-    ![dark-bg-default.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-default.png)
-    <br/>
-    dark-bg-default.png
-</p>
+![dark-bg-darkblue.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-darkblue.png)  
+dark-bg-darkblue.png
 
-<p>
-    ![dark-bg-delek.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-delek.png)
-    <br/>
-    dark-bg-delek.png
-</p>
+![dark-bg-default.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-default.png)  
+dark-bg-default.png
 
-<p>
-    ![dark-bg-desert.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-desert.png)
-    <br/>
-    dark-bg-desert.png
-</p>
+![dark-bg-delek.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-delek.png)  
+dark-bg-delek.png
 
-<p>
-    ![dark-bg-elflord.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-elflord.png)
-    <br/>
-    dark-bg-elflord.png
-</p>
+![dark-bg-desert.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-desert.png)  
+dark-bg-desert.png
 
-<p>
-    ![dark-bg-evening.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-evening.png)
-    <br/>
-    dark-bg-evening.png
-</p>
+![dark-bg-elflord.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-elflord.png)  
+dark-bg-elflord.png
 
-<p>
-    ![dark-bg-koehler.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-koehler.png)
-    <br/>
-    dark-bg-koehler.png
-</p>
+![dark-bg-evening.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-evening.png)  
+dark-bg-evening.png
 
-<p>
-    ![dark-bg-morning.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-morning.png)
-    <br/>
-    dark-bg-morning.png
-</p>
+![dark-bg-koehler.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-koehler.png)  
+dark-bg-koehler.png
 
-<p>
-    ![dark-bg-peachpuff.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-peachpuff.png)
-    <br/>
-    dark-bg-peachpuff.png
-</p>
+![dark-bg-morning.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-morning.png)  
+dark-bg-morning.png
 
-<p>
-    ![dark-bg-ron.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-ron.png)
-    <br/>
-    dark-bg-ron.png
-</p>
+![dark-bg-peachpuff.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-peachpuff.png)  
+dark-bg-peachpuff.png
 
-<p>
-    ![dark-bg-shine.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-shine.png)
-    <br/>
-    dark-bg-shine.png
-</p>
+![dark-bg-ron.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-ron.png)  
+dark-bg-ron.png
 
-<p>
-    ![dark-bg-slate.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-slate.png)
-    <br/>
-    dark-bg-slate.png
-</p>
+![dark-bg-shine.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-shine.png)  
+dark-bg-shine.png
 
-<p>
-    ![dark-bg-torte.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-torte.png)
-    <br/>
-    dark-bg-torte.png
-</p>
+![dark-bg-slate.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-slate.png)  
+dark-bg-slate.png
 
-<p>
-    ![dark-bg-zellner.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-zellner.png)
-    <br/>
-    dark-bg-zellner.png
-</p>
+![dark-bg-torte.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-torte.png)  
+dark-bg-torte.png
 
-<p>
-    ![light-bg-delek.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-delek.png)
-    <br/>
-    light-bg-delek.png
-</p>
+![dark-bg-zellner.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/dark-bg-zellner.png)  
+dark-bg-zellner.png
 
-<p>
-    ![light-bg-desert.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-desert.png)
-    <br/>
-    light-bg-desert.png
-</p>
+![light-bg-delek.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-delek.png)  
+light-bg-delek.png
 
-<p>
-    ![light-bg-murphy.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-murphy.png)
-    <br/>
-    light-bg-murphy.png
-</p>
+![light-bg-desert.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-desert.png)  
+light-bg-desert.png
 
-<p>
-    ![light-bg-peachpuff.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-peachpuff.png)
-    <br/>
-    light-bg-peachpuff.png
-</p>
+![light-bg-murphy.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-murphy.png)  
+light-bg-murphy.png
 
-<p>
-    ![light-bg-slate.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-slate.png)
-    <br/>
-    light-bg-slate.png
-</p>
+![light-bg-peachpuff.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-peachpuff.png)  
+light-bg-peachpuff.png
 
-<p>
-    ![light-bg-zellner.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-zellner.png)
-    <br/>
-    light-bg-zellner.png
-</p>
+![light-bg-slate.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-slate.png)  
+light-bg-slate.png
+
+![light-bg-zellner.png](https://github.com/htv2012/vim-color-scheme-screenshots/blob/master/light-bg-zellner.png)  
+light-bg-zellner.png
